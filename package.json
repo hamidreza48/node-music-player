@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "npm": "9.1.2",
     "express.io": "*",
     "swig": "*",
     "musicmetadata": "*",
