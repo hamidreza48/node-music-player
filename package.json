@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "python":"3.6.1",
     "express.io": "*",
     "swig": "*",
     "musicmetadata": "*",
